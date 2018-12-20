@@ -1,1 +1,1 @@
-# Occlusion-Invariant-Face-Recognition
+# Occlusion-Invariant-Face-Detection
